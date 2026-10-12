@@ -1,0 +1,11 @@
+{
+  "org": "django-crispy-forms",
+  "repo": "django-crispy-forms",
+  "versions": [
+    {
+      "commit": "e7fbb538595dde3a4598b4403e60ecca0905fa74",
+      "tag": "2.7",
+      "parsed_at": "2026-10-12T22:59:47.827471+00:00"
+    }
+  ]
+}
