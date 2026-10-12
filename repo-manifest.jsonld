@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-crispy-forms/django-crispy-forms/commit/e7fbb538595dde3a4598b4403e60ecca0905fa74",
       "git:hexsha": "e7fbb538595dde3a4598b4403e60ecca0905fa74",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.7"
     },
     {
